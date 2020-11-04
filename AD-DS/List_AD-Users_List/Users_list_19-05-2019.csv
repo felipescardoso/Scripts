@@ -1,0 +1,4 @@
+#TYPE Selected.Microsoft.ActiveDirectory.Management.ADUser
+"SAMAccountname","CN","Enabled","title","DisplayName","DistinguishedName","UserPrincipalName"
+"mdtuser","mdtuser","True",,"mdtuser","CN=mdtuser,OU=Usuarios,OU=Lab,DC=asgard,DC=local","mdtuser@asgard.local"
+"thor","Thor Odinson","True",,"Thor Odinson","CN=Thor Odinson,OU=Usuarios,OU=Lab,DC=asgard,DC=local","thor@asgard.local"
