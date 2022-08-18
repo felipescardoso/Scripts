@@ -1,0 +1,108 @@
+Document Type: WSE
+item: Global
+  Version=9.02
+  Flags=00000100
+  Languages=65 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+  Copy Default=1
+  Japanese Font Name=MS Gothic
+  Japanese Font Size=9
+  Start Gradient=0 0 255
+  End Gradient=0 0 0
+  Windows Flags=00000100000000000010110000001010
+  Message Font=MS Sans Serif
+  Font Size=8
+  Pages Modified=00001000011000000000000000000000
+  Extra Pages=00000000000000000000000000010000
+  Disk Label=Default
+  Disk Filename=SETUP
+  Patch Flags=0000000000000001
+  Patch Threshold=85
+  Patch Memory=4000
+  MIF PDF Version=1.0
+  MIF SMS Version=2.0
+  FTP Cluster Size=20
+  Per-User Version ID=1
+  Dialogs Version=7
+  Crystal Format=10111100101100000010001001001001
+  Variable Name1=_INIT_WINDOW_
+  Variable Default1=HIDE
+  Variable Flags1=00001000
+  Variable Name2=_SYS_
+  Variable Default2=C:\WINDOWS\system32
+  Variable Flags2=00001000
+  Variable Name3=_WIN_
+  Variable Default3=C:\WINDOWS
+  Variable Flags3=00001000
+  Variable Name4=_WISE_
+  Variable Default4=C:\Program Files (x86)\Altiris\Wise\WiseScript Package Editor
+  Variable Flags4=00001000
+  Requested Execution Level=asInvoker
+end
+item: Check Disk Space
+end
+item: Set Variable
+  Variable=TEMP
+  Value=C:\TEMP
+end
+item: Remark
+end
+item: Custom Script Item
+  Filename=Display Progress Message.wse
+  Variable Name1=_CENTER_
+  Variable Value1=AB
+  Variable Name2=_WIDTH_
+  Variable Value2=300
+  Variable Name3=_MSG_TITLE_
+  Variable Value3=Criando Atalho do Security Center
+  Variable Name4=HELPFILE
+  Variable Value4=C:\Program Files (x86)\Altiris\Wise\Help\WiseScriptPackageEditor.chm
+  Variable Name5=_OPTION_
+  Variable Value5=B
+  Variable Name6=_HEIGHT_
+  Variable Value6=100
+  Variable Name7=_Y_POS_
+  Variable Name8=_MSG_TEXT_
+  Variable Value8=Criando atalho para todos os usuários.
+  Variable Name9=_X_POS_
+end
+item: Install File
+  Source=.\BASE\*.*
+  Destination=%TEMP%
+  Flags=0000000110100010
+end
+item: Execute Program
+  Pathname=%TEMP%\SecurityDesk.exe
+  Default Directory=%TEMP%\
+  Flags=00001010
+end
+remarked item: Delete File
+  Pathname=%TEMP%\SecurityDesk.exe
+end
+remarked item: Delete File
+  Pathname=%TEMP%\SecurityDesk.exe.config
+end
+item: Custom Script Item
+  Filename=Display Progress Message.wse
+  Variable Name1=_CENTER_
+  Variable Name2=_WIDTH_
+  Variable Name3=_MSG_TITLE_
+  Variable Value3= 
+  Variable Name4=HELPFILE
+  Variable Value4=C:\Program Files (x86)\Altiris\Wise\Help\WiseScriptPackageEditor.chm
+  Variable Name5=_OPTION_
+  Variable Value5=A
+  Variable Name6=_MSG_TEXT_
+  Variable Name7=_Y_POS_
+  Variable Name8=_HEIGHT_
+  Variable Name9=_X_POS_
+end
+item: Remark
+end
+item: Display Message
+  Title=Criando Atalho do Security Center
+  Text=Criação concluída
+end
+item: Remark
+end
+item: Exit Installation
+end

@@ -1,0 +1,68 @@
+HOSTNAME; STATUS; ATIVO; IP; SO; DOMINIO; OU
+ES00004520; Desligado - 1; False; IP; Windows 7 Enterprise; petrobras.biz; CN=ES00004520,OU=Computadores Bloqueados,DC=petrobras,DC=biz
+ES00004767; Desligado - 1; False; ; Windows 7 Enterprise; petrobras.biz; CN=ES00004767,OU=Computadores Bloqueados,DC=petrobras,DC=biz
+ES00004767; Desligado - 1; False; ; Windows 7 Enterprise; petrobras.biz; CN=ES00004767,OU=Computadores Bloqueados,DC=petrobras,DC=biz
+ES004228; Inexistente - 1; -; -; -; -; -
+MI00194882; Inexistente - 1; -; -; -; -; -
+MI00197515; Inexistente - 1; -; -; -; -; -
+MI00210922; Inexistente - 1; -; -; -; -; -
+MI00213609; Inexistente - 1; -; -; -; -; -
+MI00215275; Inexistente - 1; -; -; -; -; -
+MI00217340; Inexistente - 1; -; -; -; -; -
+MI00217352; Inexistente - 1; -; -; -; -; -
+MI00217402; Inexistente - 1; -; -; -; -; -
+MI00217562; Inexistente - 1; -; -; -; -; -
+MI00244456; Inexistente - 1; -; -; -; -; -
+MI00258773; Inexistente - 1; -; -; -; -; -
+MI00277975; Inexistente - 1; -; -; -; -; -
+MI00286077; Desligado - 1; False; ; Windows 7 Enterprise; petrobras.biz; CN=MI00286077,OU=Computadores Bloqueados,DC=petrobras,DC=biz
+MI00287779; Desligado - 1; False; ; Windows 7 Enterprise; petrobras.biz; CN=MI00287779,OU=Computadores Bloqueados,DC=petrobras,DC=biz
+MI00296112; Inexistente - 1; -; -; -; -; -
+mi091267; Inexistente - 1; -; -; -; -; -
+mi101645; Inexistente - 1; -; -; -; -; -
+MI142097; Inexistente - 1; -; -; -; -; -
+MI142493; Inexistente - 1; -; -; -; -; -
+MI149325; Inexistente - 1; -; -; -; -; -
+MI149327; Inexistente - 1; -; -; -; -; -
+MI150954; Inexistente - 1; -; -; -; -; -
+MI150999; Inexistente - 1; -; -; -; -; -
+MI161910; Inexistente - 1; -; -; -; -; -
+MI162735; Inexistente - 1; -; -; -; -; -
+MI162997; Inexistente - 1; -; -; -; -; -
+MI162999; Inexistente - 1; -; -; -; -; -
+MI163012; Inexistente - 1; -; -; -; -; -
+MI163510; Inexistente - 1; -; -; -; -; -
+MI163911; Inexistente - 1; -; -; -; -; -
+MI178279; Inexistente - 1; -; -; -; -; -
+mi183377; Inexistente - 1; -; -; -; -; -
+MI186037; Inexistente - 1; -; -; -; -; -
+MI186562; Inexistente - 1; -; -; -; -; -
+MI186714; Inexistente - 1; -; -; -; -; -
+MI186768; Inexistente - 1; -; -; -; -; -
+MI187937; Inexistente - 1; -; -; -; -; -
+MI192796; Inexistente - 1; -; -; -; -; -
+MOSCOSO; Ligado - 0; True; 10.23.217.14; Windows Server 2012 R2 Standard; petrobras.biz; CN=MOSCOSO,OU=Aplicativos,OU=TIC-ES,OU=Servidores,DC=petrobras,DC=biz
+NO00038081; Inexistente - 0; -; -; -; -; -
+NO00038862; Inexistente - 0; -; -; -; -; -
+NO00039232; Inexistente - 0; -; -; -; -; -
+NO00041258; Inexistente - 0; -; -; -; -; -
+NO00041362; Inexistente - 0; -; -; -; -; -
+NO00042582; Desligado - 1; True; ; Windows 7 Enterprise; petrobras.biz; CN=NO00042582,OU=UO-RIO,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00046769; Inexistente - 1; -; -; -; -; -
+NO00047363; Inexistente - 1; -; -; -; -; -
+NO00048323; Inexistente - 1; -; -; -; -; -
+NO00049105; Inexistente - 1; -; -; -; -; -
+NO00051253; Inexistente - 1; -; -; -; -; -
+NO00052490; Desligado - 1; False; ; Windows 7 Enterprise; petrobras.biz; CN=NO00052490,OU=Computadores Bloqueados,DC=petrobras,DC=biz
+NO00056858; Inexistente - 1; -; -; -; -; -
+NO00058200; Inexistente - 1; -; -; -; -; -
+NO00059490; Desligado - 1; False; ; Windows 7 Enterprise; petrobras.biz; CN=NO00059490,OU=Computadores Bloqueados,DC=petrobras,DC=biz
+NO00061618; Inexistente - 1; -; -; -; -; -
+NO00070888; Desligado - 1; False; ; Windows 7 Enterprise; petrobras.biz; CN=NO00070888,OU=Computadores Bloqueados,DC=petrobras,DC=biz
+NO00074354; Desligado - 1; True; ; Windows 7 Enterprise; petrobras.biz; CN=NO00074354,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO015816; Inexistente - 1; -; -; -; -; -
+NO019433; Inexistente - 1; -; -; -; -; -
+NO023760; Inexistente - 1; -; -; -; -; -
+NO030581; Inexistente - 1; -; -; -; -; -
+NO030582; Inexistente - 1; -; -; -; -; -
+NO033662; Inexistente - 1; -; -; -; -; -

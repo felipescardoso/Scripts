@@ -1,0 +1,9 @@
+HOSTNAME; STATUS; ATIVO; IP; REDE; SO; DOMINIO; OU
+NO00093431; Desligado - 1; True; ; ; Windows 10 Enterprise; petrobras.biz; CN=NO00093431,OU=TIC,OU=GERAL,OU=TIC-BA,OU=Notebooks,DC=petrobras,DC=biz
+NO00075233; Desligado - 1; True; ; ; Windows 10 Enterprise; petrobras.biz; CN=NO00075233,OU=GERAL,OU=TIC-SEAL,OU=Notebooks,DC=petrobras,DC=biz
+NO00070277; Inexistente - 1; -; -; -; -; -
+NO00076400; Desligado - 1; True; ; ; Windows 7 Enterprise; petrobras.biz; CN=NO00076400,OU=GERAL,OU=TIC-BA,OU=Notebooks,DC=petrobras,DC=biz
+NO00052823; Desligado - 1; True; ; ; Windows 7 Enterprise; petrobras.biz; CN=NO00052823,OU=SONDAS,OU=OFFSHORE,OU=TIC-BC,OU=Notebooks,DC=petrobras,DC=biz
+NO00092987; Desligado - 1; True; ; ; Windows 10 Enterprise; petrobras.biz; CN=NO00092987,OU=UO-BS,OU=GERAL,OU=TIC-SPS,OU=Notebooks,DC=petrobras,DC=biz
+NO00087009; Desligado - 1; True; ; ; Windows 10 Enterprise; petrobras.biz; CN=NO00087009,OU=UO-SUL,OU=GERAL,OU=TIC-SPS,OU=Notebooks,DC=petrobras,DC=biz
+NO00088861; Desligado - 1; True; ; ; Windows 7 Enterprise; petrobras.biz; CN=NO00088861,OU=GERAL,OU=TIC-SPS,OU=Notebooks,DC=petrobras,DC=biz

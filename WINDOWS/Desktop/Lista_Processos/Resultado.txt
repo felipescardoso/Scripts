@@ -1,0 +1,104 @@
+ES00006592; ().Status
+ES003716; ().Status
+ES00007102; ().Status
+ES003402; ().Status
+ES003475; ().Status
+ES003014; ().Status
+ES003029; ().Status
+ES00007073; ().Status
+ES002830; ().Status
+ES002477; ().Status
+ES002499; ().Status
+ES002178; ().Status
+ES00009416; ().Status
+ES00009222; ().Status
+ES00009404; ().Status
+ES00009172; ().Status
+ES00007097; ().Status
+ES00006989; ().Status
+ES00009171; ().Status
+ES00008997; ().Status
+ES00009092; ().Status
+ES00008985; ().Status
+ES00004555; ().Status
+ES00006955; ().Status
+ES00008948; ().Status
+ES00008887; ().Status
+ES00008906; ().Status
+ES00008865; ().Status
+ES00006903; ().Status
+ES00008832; ().Status
+ES00008838; ().Status
+ES00008811; ().Status
+ES00005546; ().Status
+ES00005073; ().Status
+ES00006135; ().Status
+ES00005468; ().Status
+ES00005879; ().Status
+ES00005952; ().Status
+ES00006210; ().Status
+ES00005607; ().Status
+ES00005508; ().Status
+ES00005385; ().Status
+ES00005075; ().Status
+ES00005997; ().Status
+ES00005014; ().Status
+ES00006606; ().Status
+ES00005328; ().Status
+ES00006672; ().Status
+ES00006689; ().Status
+ES00004893; ().Status
+ES00004753; ().Status
+ES00006771; ().Status
+ES00004632; ().Status
+ES00006790; ().Status
+ES00006793; ().Status
+ES00005130; ().Status
+ES00006162; ().Status
+ES00006190; ().Status
+ES00006865; ().Status
+ES00006867; ().Status
+ES00006880; ().Status
+ES00005156; ().Status
+ES00006887; ().Status
+ES00005193; ().Status
+ES00006253; ().Status
+ES00006958; ().Status
+ES00006529; ().Status
+ES00004621; ().Status
+ES00007004; ().Status
+ES00007007; ().Status
+ES00007008; ().Status
+ES00007014; ().Status
+ES00006561; ().Status
+ES00008823; ().Status
+ES00007877; ().Status
+ES00007852; ().Status
+ES00005147; ().Status
+ES00007168; ().Status
+ES00007199; ().Status
+ES00007217; ().Status
+ES00006812; ().Status
+ES00007265; ().Status
+ES00007400; ().Status
+ES00007418; ().Status
+ES00007495; ().Status
+ES00007522; ().Status
+ES00007540; ().Status
+ES00007571; ().Status
+ES00007662; ().Status
+ES00007790; ().Status
+ES00007814; ().Status
+ES00007818; ().Status
+ES00007821; ().Status
+ES00007823; ().Status
+ES00007842; ().Status
+ES00006592; 
+ES003716; 
+ES00007102; 
+ES003402; 
+ES00006592;   
+ES003716;   
+ES00007102;   
+ES003402;   
+ES003475;   

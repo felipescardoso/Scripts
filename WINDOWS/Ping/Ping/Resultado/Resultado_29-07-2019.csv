@@ -1,0 +1,5 @@
+HOSTNAME; STATUS; ATIVO; IP; SO; DOMINIO; OU
+MI191374; Ligado - 0; True; 10.163.134.23; Windows 7 Enterprise; petrobras.biz; CN=MI191374,OU=GERAL,OU=TIC-BC,OU=Desktops,DC=petrobras,DC=biz
+MI195032; Ligado - 0; True; 10.163.169.28; Windows 7 Enterprise; petrobras.biz; CN=MI195032,OU=UO-BC,OU=GERAL,OU=TIC-BC,OU=Desktops,DC=petrobras,DC=biz
+MI184391; Ligado - 0; True; 10.163.176.19; Windows 7 Enterprise; petrobras.biz; CN=MI184391,OU=GERAL,OU=TIC-BC,OU=Desktops,DC=petrobras,DC=biz
+MI186748; Desligado - 1; True; ; Windows 7 Enterprise; petrobras.biz; CN=MI186748,OU=GERAL,OU=TIC-BC,OU=Desktops,DC=petrobras,DC=biz

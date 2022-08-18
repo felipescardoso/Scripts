@@ -1,0 +1,12 @@
+Comando para compactar as dlls para .cab. Após compactar, basta apagar os arquivos antigos del *.dll
+
+
+for %s in (*.dll) do makecab %s
+
+
+
+Para apagar del *.dll
+
+
+
+Após compactar, realizar um teste no equipamento utilizando a pasta com estes arquivos compactados.

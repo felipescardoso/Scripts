@@ -1,0 +1,624 @@
+HOSTNAME; STATUS; ATIVO; IP; REDE; SO; DOMINIO; OU
+NO00093431; Desligado - 1; True; ; ; Windows 7 Enterprise; petrobras.biz; CN=NO00093431,OU=TIC,OU=GERAL,OU=TIC-BA,OU=Notebooks,DC=petrobras,DC=biz
+NO00075233; Ligado - 0; True; 10.24.234.8; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00075233,OU=GERAL,OU=TIC-SEAL,OU=Notebooks,DC=petrobras,DC=biz
+NO00070277; Desligado - 1; True; 10.24.234.8; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00070277,OU=TIC,OU=GERAL,OU=TIC-BA,OU=Notebooks,DC=petrobras,DC=biz
+NO00076400; Desligado - 1; True; 10.24.234.8; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00076400,OU=GERAL,OU=TIC-BA,OU=Notebooks,DC=petrobras,DC=biz
+NO00052823; Desligado - 1; True; 10.24.234.8; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00052823,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00092987; Desligado - 1; True; 10.24.234.8; 255.255.255.0 64 255.255.248.0 64; Windows 10 Enterprise; petrobras.biz; CN=NO00092987,OU=UO-BS,OU=GERAL,OU=TIC-SPS,OU=Notebooks,DC=petrobras,DC=biz
+NO00087009; Ligado - 0; True; 10.24.163.7; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00087009,OU=UO-SUL,OU=GERAL,OU=TIC-SPS,OU=Notebooks,DC=petrobras,DC=biz
+NO00088861; Desligado - 1; True; 10.24.163.7; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00088861,OU=GERAL,OU=TIC-SPS,OU=Notebooks,DC=petrobras,DC=biz
+NO00084598; Ligado - 0; True; 10.24.237.126; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00084598,OU=GERAL,OU=TIC-SPS,OU=Notebooks,DC=petrobras,DC=biz
+NO00082101; Desligado - DNS_ERRO; True; 10.24.215.160; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00082101,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00056531; Desligado - 1; True; 10.24.215.160; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00056531,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00087050; Desligado - 1; True; 10.24.215.160; 255.255.255.0 64 255.255.248.0 64; Windows 10 Enterprise; petrobras.biz; CN=NO00087050,OU=UO-SUL,OU=GERAL,OU=TIC-SPS,OU=Notebooks,DC=petrobras,DC=biz
+NO00058386; Desligado - 1; True; 10.24.215.160; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00058386,OU=CENPES,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00082723; Desligado - 1; True; 10.24.215.160; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00082723,OU=UO-BS,OU=GERAL,OU=TIC-SPS,OU=Notebooks,DC=petrobras,DC=biz
+NO00064580; Desligado - DNS_ERRO; True; 10.24.210.102; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00064580,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00082866; Desligado - 1; True; 10.24.210.102; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00082866,OU=GERAL,OU=TIC-SPS,OU=Notebooks,DC=petrobras,DC=biz
+NO00076657; Desligado - 1; True; 10.24.210.102; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00076657,OU=GERAL,OU=TIC-SPS,OU=Notebooks,DC=petrobras,DC=biz
+NO00037826; Ligado - 0; True; 10.24.233.43; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00037826,OU=GERAL,OU=TIC-SPS,OU=Notebooks,DC=petrobras,DC=biz
+NO00083716; Desligado - 1; True; 10.24.233.43; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00083716,OU=GERAL,OU=TIC-SPS,OU=Notebooks,DC=petrobras,DC=biz
+NO00078577; Desligado - 1; True; 10.24.233.43; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00078577,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00081034; Ligado - 0; True; 10.24.233.199; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00081034,OU=GERAL,OU=TIC-SPS,OU=Notebooks,DC=petrobras,DC=biz
+NO00081011; Ligado - 0; True; 10.24.143.57; 255.255.255.0 64; Windows 10 Enterprise; petrobras.biz; CN=NO00081011,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00084555; Desligado - 1; True; 10.24.143.57; 255.255.255.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00084555,OU=GERAL,OU=TIC-SPS,OU=Notebooks,DC=petrobras,DC=biz
+NO00083712; Ligado - 0; True; 10.24.237.35; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00083712,OU=GERAL,OU=TIC-SPS,OU=Notebooks,DC=petrobras,DC=biz
+NO00083706; Ligado - 0; True; 10.24.143.42; 255.255.255.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00083706,OU=GERAL,OU=TIC-SPS,OU=Notebooks,DC=petrobras,DC=biz
+NO00083707; Ligado - 0; True; 10.24.234.113; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00083707,OU=GERAL,OU=TIC-SPS,OU=Notebooks,DC=petrobras,DC=biz
+NO00059949; Ligado - 0; True; 10.24.147.25; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00059949,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00071105; Desligado - 1; True; 10.24.147.25; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00071105,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00076367; Ligado - 0; True; 10.24.232.175; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00076367,OU=GERAL,OU=TIC-SPS,OU=Notebooks,DC=petrobras,DC=biz
+NO00070606; Desligado - 1; True; 10.24.232.175; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00070606,OU=UO-BS,OU=GERAL,OU=TIC-SPS,OU=Notebooks,DC=petrobras,DC=biz
+NO00064988; Desligado - 1; True; 10.24.232.175; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00064988,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00043951; Desligado - 1; True; 10.24.232.175; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00043951,OU=GERAL,OU=TIC-ES,OU=Notebooks,DC=petrobras,DC=biz
+NO00089091; Desligado - 1; True; 10.24.232.175; 255.255.255.0 64 255.255.248.0 64; Windows 10 Enterprise; petrobras.biz; CN=NO00089091,OU=GERAL,OU=TIC-ES,OU=Notebooks,DC=petrobras,DC=biz
+NO00086439; Desligado - 1; True; 10.24.232.175; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00086439,OU=GERAL,OU=TIC-ES,OU=Notebooks,DC=petrobras,DC=biz
+NO00077692; Desligado - 1; True; 10.24.232.175; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00077692,OU=GERAL,OU=TIC-ES,OU=Notebooks,DC=petrobras,DC=biz
+NO00070343; Desligado - 1; True; 10.24.232.175; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00070343,OU=GERAL,OU=TIC-ES,OU=Notebooks,DC=petrobras,DC=biz
+NO00072006; Ligado - 0; True; 10.24.197.71; 255.255.255.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00072006,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00052442; Desligado - 1; True; 10.24.197.71; 255.255.255.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00052442,OU=GERAL,OU=TIC-BC,OU=Notebooks,DC=petrobras,DC=biz
+NO00081216; Ligado - 0; True; 10.24.148.88; 255.255.255.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00081216,OU=GERAL,OU=TIC-BC,OU=Notebooks,DC=petrobras,DC=biz
+NO00069248; Desligado - DNS_ERRO; True; 10.24.214.167; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00069248,OU=GERAL,OU=TIC-BC,OU=Notebooks,DC=petrobras,DC=biz
+NO00050262; Ligado - 0; True; 10.162.132.163; 255.255.255.0 64 255.255.252.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00050262,OU=GERAL,OU=TIC-BC,OU=Notebooks,DC=petrobras,DC=biz
+NO00087287; Desligado - 1; True; 10.162.132.163; 255.255.255.0 64 255.255.252.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00087287,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00050618; Desligado - 1; True; 10.162.132.163; 255.255.255.0 64 255.255.252.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00050618,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00050824; Desligado - 1; True; 10.162.132.163; 255.255.255.0 64 255.255.252.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00050824,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00036033; Desligado - 1; True; 10.162.132.163; 255.255.255.0 64 255.255.252.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00036033,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00091264; Desligado - 1; True; 10.162.132.163; 255.255.255.0 64 255.255.252.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00091264,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00044554; Desligado - 1; True; 10.162.132.163; 255.255.255.0 64 255.255.252.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00044554,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00056583; Inexistente - 1; -; -; -; -; -
+NO00076698; Desligado - 1; True; 10.162.132.163; 255.255.255.0 64 255.255.252.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00076698,OU=GERAL,OU=TIC-RIO,OU=Desktops,DC=petrobras,DC=biz
+NO00073675; Desligado - 1; True; 10.162.132.163; 255.255.255.0 64 255.255.252.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00073675,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00051099; Desligado - 1; True; 10.162.132.163; 255.255.255.0 64 255.255.252.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00051099,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00070851; Desligado - 1; True; 10.162.132.163; 255.255.255.0 64 255.255.252.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00070851,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00080848; Desligado - 1; True; 10.162.132.163; 255.255.255.0 64 255.255.252.0 64; Windows 10 Enterprise; petrobras.biz; CN=NO00080848,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00095327; Ligado - 0; True; 10.24.238.250; 255.255.248.0 64; Windows 10 Enterprise; transp.biz; CN=NO00095327,OU=SEDE-RJ,OU=TIC-RIO,OU=Notebooks,DC=transp,DC=biz
+NO00059064; Desligado - 1; True; 10.24.238.250; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00059064,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00059281; Desligado - 1; True; 10.24.238.250; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00059281,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00052898; Desligado - 1; True; 10.24.238.250; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00052898,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00059052; Desligado - 1; True; 10.24.238.250; 255.255.248.0 64; Windows 10 Enterprise; petrobras.biz; CN=NO00059052,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00058390; Desligado - 1; True; 10.24.238.250; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00058390,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00061862; Desligado - 1; True; 10.24.238.250; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00061862,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00076573; Ligado - 0; True; 10.24.197.154; 255.255.255.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00076573,OU=UO-BS,OU=GERAL,OU=TIC-SPS,OU=Notebooks,DC=petrobras,DC=biz
+NO00049893; Desligado - 1; True; 10.24.197.154; 255.255.255.0 64; Windows 10 Enterprise; petrobras.biz; CN=NO00049893,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00049332; Desligado - 1; True; 10.24.197.154; 255.255.255.0 64; Windows 10 Enterprise; petrobras.biz; CN=NO00049332,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00066187; Desligado - 1; True; 10.24.197.154; 255.255.255.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00066187,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00044208; Desligado - 1; True; 10.24.197.154; 255.255.255.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00044208,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00059554; Desligado - 1; True; 10.24.197.154; 255.255.255.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00059554,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00074117; Desligado - 1; True; 10.24.197.154; 255.255.255.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00074117,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00094522; Desligado - 1; True; 10.24.197.154; 255.255.255.0 64; Windows 10 Enterprise; petrobras.biz; CN=NO00094522,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00062478; Desligado - 1; True; 10.24.197.154; 255.255.255.0 64; Windows 10 Enterprise; petrobras.biz; CN=NO00062478,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00071764; Desligado - 1; True; 10.24.197.154; 255.255.255.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00071764,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00044580; Desligado - 1; True; 10.24.197.154; 255.255.255.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00044580,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00049990; Desligado - 1; True; 10.24.197.154; 255.255.255.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00049990,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00058344; Desligado - 1; True; 10.24.197.154; 255.255.255.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00058344,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00079852; Ligado - 0; True; 10.24.237.128; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00079852,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00074170; Desligado - 1; True; 10.24.237.128; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00074170,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00091996; Desligado - 1; True; 10.24.237.128; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00091996,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00080890; Desligado - 1; True; 10.24.237.128; 255.255.248.0 64; Windows 10 Enterprise; petrobras.biz; CN=NO00080890,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00062808; Desligado - 1; True; 10.24.237.128; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00062808,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00039491; Desligado - 1; True; 10.24.237.128; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00039491,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00046559; Desligado - 1; True; 10.24.237.128; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00046559,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00070799; Desligado - 1; True; 10.24.237.128; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00070799,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00094860; Ligado - 0; True; 10.24.232.30; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00094860,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO000062861; Desligado - 1; True; 10.24.232.30; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO000062861,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00095246; Desligado - 1; True; 10.24.232.30; 255.255.248.0 64; Windows 10 Enterprise; petrobras.biz; CN=NO00095246,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00051504; Desligado - DNS_ERRO; True; 10.24.210.40; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00051504,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00077632; Ligado - 0; True; 10.24.200.99; ; Windows 7 Enterprise; petrobras.biz; CN=NO00077632,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00051307; Desligado - 1; True; 10.24.200.99; ; Windows 7 Enterprise; petrobras.biz; CN=NO00051307,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00070937; Desligado - 1; True; 10.24.200.99; ; Windows 7 Enterprise; petrobras.biz; CN=NO00070937,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00070849; Desligado - 1; True; 10.24.200.99; ; Windows 7 Enterprise; petrobras.biz; CN=NO00070849,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00074111; Desligado - DNS_ERRO; True; 10.28.38.36; ; Windows 7 Enterprise; petrobras.biz; CN=NO00074111,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00079831; Ligado - 0; True; 10.24.160.79; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00079831,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00092496; Desligado - 1; True; 10.24.160.79; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00092496,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00040835; Desligado - 1; True; 10.24.160.79; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00040835,OU=COMPERJ,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00070921; Desligado - 1; True; 10.24.160.79; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00070921,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00069792; Desligado - 1; True; 10.24.160.79; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00069792,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00052796; Desligado - 1; True; 10.24.160.79; 255.255.255.0 64 255.255.248.0 64; Windows 10 Enterprise; petrobras.biz; CN=NO00052796,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00066692; Desligado - 1; True; 10.24.160.79; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00066692,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00078484; Desligado - DNS_ERRO; True; 10.28.35.72; ; Windows 10 Enterprise; petrobras.biz; CN=NO00078484,OU=REDUC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00051891; Desligado - 1; True; 10.28.35.72; ; Windows 10 Enterprise; petrobras.biz; CN=NO00051891,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00091909; Desligado - 1; True; 10.28.35.72; ; Windows 10 Enterprise; petrobras.biz; CN=NO00091909,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00075377; Ligado - 0; True; 10.24.233.147; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00075377,OU=CENPES,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00046561; Desligado - DNS_ERRO; True; 10.24.209.25; ; Windows 7 Enterprise; petrobras.biz; CN=NO00046561,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00043273; Ligado - 0; True; 10.24.192.131; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00043273,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00038171; Desligado - 1; True; 10.24.192.131; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00038171,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00070903; Desligado - 1; True; 10.24.192.131; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00070903,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00044259; Desligado - 1; True; 10.24.192.131; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00044259,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00058251; Desligado - DNS_ERRO; True; 10.24.213.124; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00058251,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00094905; Desligado - 1; True; 10.24.213.124; 255.255.248.0 64; Windows 10 Enterprise; petrobras.biz; CN=NO00094905,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00092903; Desligado - 1; True; 10.24.213.124; 255.255.248.0 64; Windows 10 Enterprise; petrobras.biz; CN=NO00092903,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00091116; Desligado - 1; True; 10.24.213.124; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00091116,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00065039; Inexistente - 1; -; -; -; -; -
+NO00045185; Desligado - 1; True; 10.24.213.124; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00045185,OU=COMPERJ,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00092436; Desligado - 1; True; 10.24.213.124; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00092436,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00071974; Desligado - 1; True; 10.24.213.124; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00071974,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00057307; Desligado - 1; True; 10.24.213.124; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00057307,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00066185; Desligado - 1; True; 10.24.213.124; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00066185,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00064534; Desligado - 1; True; 10.24.213.124; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00064534,OU=CENPES,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00050060; Desligado - 1; True; 10.24.213.124; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00050060,OU=CENPES,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00050014; Desligado - 1; True; 10.24.213.124; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00050014,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00070956; Desligado - 1; True; 10.24.213.124; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00070956,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00092048; Ligado - 0; True; 10.24.154.37; 255.255.255.0 64; Windows 10 Enterprise; petrobras.biz; CN=NO00092048,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00062454; Desligado - 1; True; 10.24.154.37; 255.255.255.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00062454,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00058180; Desligado - 1; True; 10.24.154.37; 255.255.255.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00058180,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO033668; Desligado - 1; True; 10.24.154.37; 255.255.255.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO033668,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00076811; Desligado - DNS_ERRO; True; 10.24.213.61; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00076811,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00064106; Ligado - 0; True; 10.24.198.36; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00064106,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00059158; Desligado - 1; True; 10.24.198.36; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00059158,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00044458; Ligado - 0; True; 10.24.238.67; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00044458,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00059345; Desligado - 1; True; 10.24.238.67; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00059345,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00081573; Desligado - 1; True; 10.24.238.67; 255.255.248.0 64; Windows 10 Enterprise; petrobras.biz; CN=NO00081573,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00076788; Desligado - 1; True; 10.24.238.67; 255.255.248.0 64; Windows 10 Enterprise; petrobras.biz; CN=NO00076788,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00053337; Desligado - 1; True; 10.24.238.67; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00053337,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00066669; Desligado - DNS_ERRO; True; 10.24.212.57; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00066669,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00082048; Desligado - 1; True; 10.24.212.57; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00082048,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00051367; Desligado - 1; True; 10.24.212.57; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00051367,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00094702; Desligado - 1; True; 10.24.212.57; 255.255.255.0 64 255.255.248.0 64; Windows 10 Enterprise; petrobras.biz; CN=NO00094702,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00057722; Desligado - 1; True; 10.24.212.57; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00057722,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00066597; Desligado - 1; True; 10.24.212.57; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00066597,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00048983; Desligado - 1; True; 10.24.212.57; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00048983,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO000539000; Desligado - 1; True; 10.24.212.57; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO000539000,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00062994; Desligado - 1; True; 10.24.212.57; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00062994,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00052381; Desligado - 1; True; 10.24.212.57; 255.255.255.0 64 255.255.248.0 64; Windows 10 Enterprise; petrobras.biz; CN=NO00052381,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00070448; Desligado - 1; True; 10.24.212.57; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00070448,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00069418; Desligado - 1; True; 10.24.212.57; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00069418,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00071964; Desligado - 1; True; 10.24.212.57; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00071964,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00043853; Desligado - 1; True; 10.24.212.57; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00043853,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00068223; Desligado - 1; True; 10.24.212.57; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; transp.biz; CN=NO00068223,OU=SEDE-RJ,OU=TIC-RIO,OU=Notebooks,DC=transp,DC=biz
+NO00080913; Desligado - 1; True; 10.24.212.57; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00080913,OU=UO-RIO,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00051071; Desligado - 1; True; 10.24.212.57; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00051071,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00063406; Ligado - 0; True; 10.24.237.13; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00063406,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00066588; Ligado - 0; True; 10.24.160.134; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00066588,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00076469; Desligado - 1; True; 10.24.160.134; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00076469,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00086773; Desligado - 1; True; 10.24.160.134; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00086773,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00050104; Desligado - 1; True; 10.24.160.134; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00050104,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00046512; Desligado - 1; True; 10.24.160.134; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00046512,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00051215; Desligado - 1; True; 10.24.160.134; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00051215,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00058394; Ligado - 0; True; 10.24.236.154; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00058394,OU=CENPES,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00089443; Desligado - 1; True; 10.24.236.154; 255.255.248.0 64; Windows 10 Enterprise; petrobras.biz; CN=NO00089443,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00044961; Desligado - 1; True; 10.24.236.154; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00044961,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00058806; Desligado - 1; True; 10.24.236.154; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00058806,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00085475; Desligado - 1; True; 10.24.236.154; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00085475,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00069694; Ligado - 0; True; 10.24.238.223; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00069694,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00076783; Desligado - 1; True; 10.24.238.223; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00076783,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00072015; Ligado - 0; True; 10.24.140.43; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00072015,OU=COMPERJ,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00084458; Ligado - 0; True; 10.24.232.120; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00084458,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00089447; Desligado - 1; True; 10.24.232.120; 255.255.248.0 64; Windows 10 Enterprise; petrobras.biz; CN=NO00089447,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00048255; Ligado - 0; True; 10.24.204.149; 255.255.255.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00048255,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00061343; Desligado - 1; True; 10.24.204.149; 255.255.255.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00061343,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00049141; Ligado - 0; True; 10.24.232.178; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00049141,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00047144; Desligado - DNS_ERRO; True; 10.24.211.108; 255.255.248.0 64; Windows 10 Enterprise; petrobras.biz; CN=NO00047144,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00087676; Ligado - 0; True; 10.24.234.0; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00087676,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00070928; Ligado - 0; True; 10.24.236.225; 255.255.248.0 64 255.255.255.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00070928,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00082112; Ligado - 0; True; 10.24.232.64; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00082112,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00089354; Desligado - 1; True; 10.24.232.64; 255.255.255.0 64 255.255.248.0 64; Windows 10 Enterprise; petrobras.biz; CN=NO00089354,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00060147; Desligado - DNS_ERRO; True; 10.24.209.109; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00060147,OU=REDUC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00046902; Desligado - 1; True; 10.24.209.109; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00046902,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00069983; Desligado - 1; True; 10.24.209.109; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00069983,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00076810; Desligado - 1; True; 10.24.209.109; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00076810,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00053492; Desligado - 1; True; 10.24.209.109; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00053492,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00092005; Desligado - 1; True; 10.24.209.109; 255.255.248.0 64; Windows 10 Enterprise; petrobras.biz; CN=NO00092005,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00092862; Desligado - 1; True; 10.24.209.109; 255.255.248.0 64; Windows 10 Enterprise; petrobras.biz; CN=NO00092862,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00089352; Desligado - 1; True; 10.24.209.109; 255.255.248.0 64; Windows 10 Enterprise; petrobras.biz; CN=NO00089352,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00078932; Desligado - 1; True; 10.24.209.109; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00078932,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00089359; Desligado - DNS_ERRO; True; 10.28.38.63; ; Windows 10 Enterprise; petrobras.biz; CN=NO00089359,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00090711; Desligado - 1; True; 10.28.38.63; ; Windows 10 Enterprise; petrobras.biz; CN=NO00090711,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00063503; Desligado - DNS_ERRO; True; 10.24.215.136; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00063503,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00071876; Desligado - DNS_ERRO; True; 10.24.213.44; ; Windows 7 Enterprise; petrobras.biz; CN=NO00071876,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00081599; Ligado - 0; True; 10.24.156.7; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00081599,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00078564; Desligado - 1; True; 10.24.156.7; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00078564,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00063988; Desligado - 1; True; 10.24.156.7; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00063988,OU=GERAL,OU=TIC-BC,OU=Notebooks,DC=petrobras,DC=biz
+NO00076716; Desligado - 1; True; 10.24.156.7; 255.255.255.0 64 255.255.248.0 64; Windows 10 Enterprise; petrobras.biz; CN=NO00076716,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00058297; Desligado - DNS_ERRO; True; 10.24.209.162; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00058297,OU=CENPES,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00050148; Desligado - 1; True; 10.24.209.162; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00050148,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00071009; Desligado - 1; True; 10.24.209.162; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00071009,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00070838; Desligado - 1; True; 10.24.209.162; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00070838,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00071814; Desligado - 1; True; 10.24.209.162; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00071814,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00092046; Desligado - 1; True; 10.24.209.162; 255.255.248.0 64; Windows 10 Enterprise; petrobras.biz; CN=NO00092046,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00093082; Desligado - 1; True; 10.24.209.162; 255.255.248.0 64; Windows 10 Enterprise; petrobras.biz; CN=NO00093082,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00092038; Ligado - 0; True; 10.24.235.20; 255.255.248.0 64; Windows 10 Enterprise; petrobras.biz; CN=NO00092038,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00089377; Desligado - 1; True; 10.24.235.20; 255.255.248.0 64; Windows 10 Enterprise; petrobras.biz; CN=NO00089377,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00081574; Desligado - 1; True; 10.24.235.20; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00081574,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00092027; Ligado - 0; True; 10.24.239.37; 255.255.248.0 64; Windows 10 Enterprise; petrobras.biz; CN=NO00092027,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00056064; Ligado - 0; True; 10.24.239.53; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00056064,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00060172; Desligado - 1; True; 10.24.239.53; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00060172,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00066854; Desligado - 1; True; 10.24.239.53; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00066854,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00058377; Desligado - 1; True; 10.24.239.53; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00058377,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00080244; Desligado - 1; True; 10.24.239.53; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00080244,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00076227; Desligado - 1; True; 10.24.239.53; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00076227,OU=GERAL,OU=TIC-BC,OU=Notebooks,DC=petrobras,DC=biz
+NO00093029; Desligado - DNS_ERRO; True; 10.24.213.158; 255.255.248.0 64; Windows 10 Enterprise; petrobras.biz; CN=NO00093029,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00093019; Desligado - 1; True; 10.24.213.158; 255.255.248.0 64; Windows 10 Enterprise; petrobras.biz; CN=NO00093019,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00077875; Ligado - 0; True; 10.24.145.148; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00077875,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00082083; Ligado - 0; True; 10.24.237.173; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00082083,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00069973; Desligado - 1; True; 10.24.237.173; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00069973,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00091182; Ligado - 0; True; 10.24.232.245; 255.255.248.0 64; Windows 10 Enterprise; petrobras.biz; CN=NO00091182,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00070811; Desligado - 1; True; 10.24.232.245; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00070811,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00062663; Desligado - 1; True; 10.24.232.245; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00062663,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00082414; Desligado - 1; True; 10.24.232.245; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00082414,OU=GERAL,OU=TIC-BC,OU=Notebooks,DC=petrobras,DC=biz
+NO00036567; Desligado - 1; True; 10.24.232.245; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00036567,OU=CENPES,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00093097; Desligado - 1; True; 10.24.232.245; 255.255.248.0 64; Windows 10 Enterprise; petrobras.biz; CN=NO00093097,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00093074; Desligado - 1; True; 10.24.232.245; 255.255.248.0 64; Windows 10 Enterprise; petrobras.biz; CN=NO00093074,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00093094; Ligado - 0; True; 10.24.238.6; 255.255.248.0 64; Windows 10 Enterprise; petrobras.biz; CN=NO00093094,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00090564; Desligado - 1; True; 10.24.238.6; 255.255.248.0 64; Windows 10 Enterprise; petrobras.biz; CN=NO00090564,OU=COMPERJ,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00091055; Desligado - 1; True; 10.24.238.6; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00091055,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00072035; Desligado - DNS_ERRO; True; 10.24.213.220; ; Windows 7 Enterprise; petrobras.biz; CN=NO00072035,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00092842; Desligado - 1; True; 10.24.213.220; ; Windows 7 Enterprise; petrobras.biz; CN=NO00092842,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00088956; Desligado - 1; True; 10.24.213.220; ; Windows 10 Enterprise; petrobras.biz; CN=NO00088956,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00053106; Desligado - 1; True; 10.24.213.220; ; Windows 7 Enterprise; petrobras.biz; CN=NO00053106,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00091949; Desligado - 1; True; 10.24.213.220; ; Windows 10 Enterprise; petrobras.biz; CN=NO00091949,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00077933; Ligado - 0; True; 10.24.233.227; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00077933,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00070933; Desligado - DNS_ERRO; True; 10.28.37.39; 255.255.240.0 64 255.255.255.255 64; Windows 7 Enterprise; petrobras.biz; CN=NO00070933,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00082080; Ligado - 0; True; 10.24.144.3; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00082080,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00089159; Desligado - 1; True; 10.24.144.3; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00089159,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00059400; Desligado - DNS_ERRO; True; 10.24.210.145; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00059400,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00091571; Ligado - 0; True; 10.24.237.111; 255.255.248.0 64; Windows 10 Enterprise; petrobras.biz; CN=NO00091571,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00053415; Desligado - 1; True; 10.24.237.111; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00053415,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00052105; Ligado - 0; True; 10.24.238.72; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00052105,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00059077; Desligado - 1; True; 10.24.238.72; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00059077,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00057682; Desligado - 1; True; 10.24.238.72; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00057682,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00091421; Desligado - 1; True; 10.24.238.72; 255.255.255.0 64 255.255.248.0 64; Windows 10 Enterprise; petrobras.biz; CN=NO00091421,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00091785; Desligado - 1; True; 10.24.238.72; 255.255.255.0 64 255.255.248.0 64; Windows 10 Enterprise; petrobras.biz; CN=NO00091785,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00091422; Ligado - 0; True; 10.24.232.253; 255.255.248.0 64; Windows 10 Enterprise; petrobras.biz; CN=NO00091422,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00080895; Ligado - 0; True; 10.24.148.35; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00080895,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00091399; Desligado - 1; True; 10.24.148.35; 255.255.255.0 64 255.255.248.0 64; Windows 10 Enterprise; petrobras.biz; CN=NO00091399,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00066161; Desligado - 1; True; 10.24.148.35; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00066161,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00091428; Desligado - DNS_ERRO; True; 10.24.146.27; ; Windows 7 Enterprise; petrobras.biz; CN=NO00091428,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00041092; Desligado - 1; True; 10.24.146.27; ; Windows 7 Enterprise; petrobras.biz; CN=NO00041092,OU=GERAL,OU=TIC-BC,OU=Notebooks,DC=petrobras,DC=biz
+NO00063949; Desligado - 1; True; 10.24.146.27; ; Windows 7 Enterprise; petrobras.biz; CN=NO00063949,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00075405; Desligado - 1; True; 10.24.146.27; ; Windows 7 Enterprise; petrobras.biz; CN=NO00075405,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00094007; Ligado - 0; True; 10.24.236.14; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00094007,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00070914; Desligado - 1; True; 10.24.236.14; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00070914,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00070794; Desligado - 1; True; 10.24.236.14; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00070794,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00047097; Desligado - 1; True; 10.24.236.14; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00047097,OU=CENPES,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00091879; Desligado - 1; True; 10.24.236.14; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00091879,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00058560; Desligado - 1; True; 10.24.236.14; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00058560,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00052571; Desligado - 1; True; 10.24.236.14; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00052571,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00050878; Desligado - 1; True; 10.24.236.14; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00050878,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00061610; Desligado - 1; True; 10.24.236.14; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00061610,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00091919; Ligado - 0; True; 10.24.137.153; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00091919,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00091926; Ligado - 0; True; 10.24.239.74; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00091926,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00081054; Ligado - 0; True; 10.24.238.83; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00081054,OU=GERAL,OU=TIC-BC,OU=Notebooks,DC=petrobras,DC=biz
+NO00091462; Ligado - 0; True; 10.24.236.8; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00091462,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00091472; Desligado - 1; True; 10.24.236.8; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00091472,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00077931; Desligado - DNS_ERRO; True; 10.28.35.29; ; Windows 10 Enterprise; petrobras.biz; CN=NO00077931,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00059007; Ligado - 0; True; 10.24.170.17; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00059007,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00049103; Desligado - 1; True; 10.24.170.17; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00049103,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00076692; Desligado - DNS_ERRO; True; 10.24.214.59; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00076692,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00090672; Ligado - 0; True; 10.24.232.70; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00090672,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00091474; Desligado - 1; True; 10.24.232.70; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00091474,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00091475; Ligado - 0; True; 10.24.161.37; 255.255.255.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00091475,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00090675; Ligado - 0; True; 10.24.138.23; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00090675,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00090670; Desligado - 1; True; 10.24.138.23; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00090670,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00082040; Desligado - 1; True; 10.24.138.23; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00082040,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00090684; Ligado - 0; True; 10.24.236.68; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00090684,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00090693; Desligado - 1; True; 10.24.236.68; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00090693,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00053269; Desligado - 1; True; 10.24.236.68; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00053269,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00061740; Desligado - 1; True; 10.24.236.68; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00061740,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00087286; Desligado - 1; True; 10.24.236.68; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00087286,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00090676; Desligado - 1; True; 10.24.236.68; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00090676,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00090683; Ligado - 0; True; 10.24.237.129; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00090683,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00063218; Desligado - 1; True; 10.24.237.129; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00063218,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00078586; Ligado - 0; True; 10.24.236.92; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00078586,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00081588; Ligado - 0; True; 10.24.233.65; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00081588,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00090990; Desligado - 1; True; 10.24.233.65; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00090990,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00091004; Desligado - 1; True; 10.24.233.65; 255.255.255.0 64 255.255.248.0 64; Windows 10 Enterprise; petrobras.biz; CN=NO00091004,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+MI00090638; Desligado - 1; True; 10.24.233.65; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=MI00090638,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Desktops,DC=petrobras,DC=biz
+NO00090640; Ligado - 0; True; 10.24.233.117; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00090640,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00090548; Desligado - 1; True; 10.24.233.117; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00090548,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00062881; Desligado - 1; True; 10.24.233.117; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00062881,OU=GERAL,OU=TIC-BC,OU=Notebooks,DC=petrobras,DC=biz
+NO00090545; Desligado - 1; True; 10.24.233.117; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00090545,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00087309; Desligado - 1; True; 10.24.233.117; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00087309,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00071929; Desligado - 1; True; 10.24.233.117; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00071929,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00090543; Desligado - 1; True; 10.24.233.117; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00090543,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00089149; Desligado - DNS_ERRO; True; 10.24.213.50; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00089149,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00088261; Desligado - 1; True; 10.24.213.50; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00088261,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00091039; Ligado - 0; True; 10.24.238.42; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00091039,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00073200; Ligado - 0; True; 10.165.20.37; 255.255.255.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00073200,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00090811; Desligado - 1; True; 10.165.20.37; 255.255.255.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00090811,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00090825; Desligado - DNS_ERRO; True; 10.24.213.35; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00090825,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00090827; Desligado - 1; True; 10.24.213.35; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00090827,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00090808; Desligado - 1; True; 10.24.213.35; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00090808,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00090831; Ligado - 0; True; 10.24.232.215; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00090831,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00090829; Ligado - 0; True; 10.24.232.217; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00090829,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00090813; Desligado - 1; True; 10.24.232.217; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00090813,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00090824; Desligado - DNS_ERRO; True; 10.28.36.10; ; Windows 7 Enterprise; petrobras.biz; CN=NO00090824,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00090815; Desligado - 1; True; 10.28.36.10; ; Windows 7 Enterprise; petrobras.biz; CN=NO00090815,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00042082; Desligado - 1; True; 10.28.36.10; ; Windows 7 Enterprise; petrobras.biz; CN=NO00042082,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00082206; Desligado - 1; True; 10.28.36.10; ; Windows 7 Enterprise; petrobras.biz; CN=NO00082206,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00090631; Ligado - 0; True; 10.25.90.200; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00090631,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00090750; Desligado - 1; True; 10.25.90.200; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00090750,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00091365; Ligado - 0; True; 10.24.236.141; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00091365,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00091358; Desligado - 1; True; 10.24.236.141; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00091358,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00088259; Desligado - 1; True; 10.24.236.141; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00088259,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00091362; Ligado - 0; True; 10.24.232.69; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00091362,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00091353; Desligado - 1; True; 10.24.232.69; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00091353,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00091188; Ligado - 0; True; 10.24.232.20; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00091188,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00091367; Ligado - 0; True; 10.24.151.27; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00091367,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00091363; Desligado - 1; True; 10.24.151.27; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00091363,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00091134; Ligado - 0; True; 10.24.233.236; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00091134,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00070869; Desligado - 1; True; 10.24.233.236; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00070869,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00091293; Desligado - 1; True; 10.24.233.236; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00091293,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00064422; Desligado - 1; True; 10.24.233.236; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00064422,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00091017; Desligado - DNS_ERRO; True; 10.28.35.44; ; Windows 7 Enterprise; petrobras.biz; CN=NO00091017,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00091020; Ligado - 0; True; 10.24.232.66; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00091020,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00091019; Desligado - 1; True; 10.24.232.66; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00091019,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00091031; Desligado - 1; True; 10.24.232.66; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00091031,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00087770; Desligado - 1; True; 10.24.232.66; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00087770,OU=UO-RIO,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00062829; Desligado - 1; True; 10.24.232.66; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00062829,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00091071; Desligado - 1; True; 10.24.232.66; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00091071,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00091051; Ligado - 0; True; 10.24.165.151; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00091051,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00050696; Desligado - 1; True; 10.24.165.151; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00050696,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00091058; Ligado - 0; True; 10.24.235.215; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00091058,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00089270; Desligado - 1; True; 10.24.235.215; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00089270,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00089261; Desligado - DNS_ERRO; True; 10.24.213.57; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00089261,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00089247; Desligado - 1; True; 10.24.213.57; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00089247,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00089266; Desligado - 1; True; 10.24.213.57; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00089266,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00089265; Desligado - 1; True; 10.24.213.57; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00089265,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00089271; Desligado - 1; True; 10.24.213.57; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00089271,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00070917; Desligado - DNS_ERRO; True; 10.24.212.6; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00070917,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00090580; Desligado - 1; True; 10.24.212.6; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00090580,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00090581; Ligado - 0; True; 10.24.196.54; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00090581,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00090572; Desligado - 1; True; 10.24.196.54; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00090572,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00052673; Ligado - 0; True; 10.24.199.9; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00052673,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00090590; Desligado - 1; True; 10.24.199.9; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00090590,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00090587; Desligado - DNS_ERRO; True; 10.28.39.20; ; Windows 7 Enterprise; petrobras.biz; CN=NO00090587,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00088306; Desligado - 1; True; 10.28.39.20; ; Windows 7 Enterprise; petrobras.biz; CN=NO00088306,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00071856; Desligado - DNS_ERRO; True; 10.24.212.4; ; Windows 7 Enterprise; petrobras.biz; CN=NO00071856,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00091988; Ligado - 0; True; 10.24.160.149; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00091988,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00089127; Desligado - 1; True; 10.24.160.149; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00089127,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00070055; Desligado - 1; True; 10.24.160.149; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00070055,OU=UO-RIO,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00089155; Desligado - 1; True; 10.24.160.149; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00089155,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00071104; Desligado - 1; True; 10.24.160.149; 255.255.255.0 64 255.255.248.0 64; Windows 10 Enterprise; petrobras.biz; CN=NO00071104,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00089164; Desligado - 1; True; 10.24.160.149; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00089164,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00089161; Ligado - 0; True; 10.24.196.124; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00089161,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00089178; Desligado - DNS_ERRO; True; 10.24.215.43; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00089178,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00087502; Desligado - 1; True; 10.24.215.43; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00087502,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00050996; Desligado - 1; True; 10.24.215.43; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00050996,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00091255; Desligado - 1; True; 10.24.215.43; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00091255,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00059895; Desligado - 1; True; 10.24.215.43; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00059895,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00087464; Desligado - 1; True; 10.24.215.43; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00087464,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00058983; Desligado - 1; True; 10.24.215.43; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00058983,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00069971; Desligado - 1; True; 10.24.215.43; 255.255.248.0 64; Windows 10 Enterprise; petrobras.biz; CN=NO00069971,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00056686; Ligado - 0; True; 10.24.148.73; 255.255.255.0 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00056686,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00039169; Desligado - 1; True; 10.24.148.73; 255.255.255.0 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00039169,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00084516; Desligado - DNS_ERRO; True; 10.28.39.218; 255.255.255.0 64 128 64 128 255.255.255.255 64; Windows 7 Enterprise; petrobras.biz; CN=NO00084516,OU=GERAL,OU=TIC-BC,OU=Notebooks,DC=petrobras,DC=biz
+NO00049988; Desligado - 1; True; 10.28.39.218; 255.255.255.0 64 128 64 128 255.255.255.255 64; Windows 10 Enterprise; petrobras.biz; CN=NO00049988,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00087384; Desligado - 1; True; 10.28.39.218; 255.255.255.0 64 128 64 128 255.255.255.255 64; Windows 7 Enterprise; petrobras.biz; CN=NO00087384,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00055864; Ligado - 0; True; 10.24.238.173; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00055864,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00050249; Desligado - 1; True; 10.24.238.173; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00050249,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00092763; Desligado - 1; True; 10.24.238.173; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00092763,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00092771; Ligado - 0; True; 10.24.206.60; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00092771,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00092556; Desligado - DNS_ERRO; True; 10.24.214.1; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00092556,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00059069; Ligado - 0; True; 10.24.158.12; 255.255.255.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00059069,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00092768; Desligado - DNS_ERRO; True; 10.28.36.42; ; Windows 7 Enterprise; petrobras.biz; CN=NO00092768,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00092759; Ligado - 0; True; 10.24.232.249; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00092759,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00079763; Ligado - 0; True; 10.24.136.109; 255.255.255.0 64; Windows 10 Enterprise; petrobras.biz; CN=NO00079763,OU=Novos Computadores,DC=petrobras,DC=biz
+NO00090533; Desligado - DNS_ERRO; True; 10.28.35.235; ; Windows 7 Enterprise; petrobras.biz; CN=NO00090533,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00093484; Desligado - DNS_ERRO; True; 10.28.35.207; 255.255.255.0 64 128 64 255.255.255.255 64; Windows 7 Enterprise; petrobras.biz; CN=NO00093484,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00091250; Desligado - 1; True; 10.28.35.207; 255.255.255.0 64 128 64 255.255.255.255 64; Windows 7 Enterprise; petrobras.biz; CN=NO00091250,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00091267; Desligado - 1; True; 10.28.35.207; 255.255.255.0 64 128 64 255.255.255.255 64; Windows 7 Enterprise; petrobras.biz; CN=NO00091267,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00090540; Desligado - 1; True; 10.28.35.207; 255.255.255.0 64 128 64 255.255.255.255 64; Windows 7 Enterprise; petrobras.biz; CN=NO00090540,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00059485; Desligado - 1; True; 10.28.35.207; 255.255.255.0 64 128 64 255.255.255.255 64; Windows 7 Enterprise; petrobras.biz; CN=NO00059485,OU=UO-RIO,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00087296; Desligado - 1; True; 10.28.35.207; 255.255.255.0 64 128 64 255.255.255.255 64; Windows 7 Enterprise; petrobras.biz; CN=NO00087296,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00087302; Desligado - DNS_ERRO; True; 10.24.214.50; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00087302,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00069693; Ligado - 0; True; 10.24.142.95; 255.255.255.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00069693,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00078754; Ligado - 0; True; 10.24.147.96; ; Windows 7 Enterprise; petrobras.biz; CN=NO00078754,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00087472; Ligado - 0; True; 10.21.64.41; 255.255.255.0 64 255.255.254.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00087472,OU=COMPERJ,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00057815; Desligado - 1; True; 10.21.64.41; 255.255.255.0 64 255.255.254.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00057815,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00061180; Desligado - 1; True; 10.21.64.41; 255.255.255.0 64 255.255.254.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00061180,OU=UO-BA,OU=GERAL,OU=TIC-BA,OU=Notebooks,DC=petrobras,DC=biz
+NO00087480; Desligado - 1; True; 10.21.64.41; 255.255.255.0 64 255.255.254.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00087480,OU=COMPERJ,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00090523; Desligado - 1; True; 10.21.64.41; 255.255.255.0 64 255.255.254.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00090523,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00082193; Desligado - 1; True; 10.21.64.41; 255.255.255.0 64 255.255.254.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00082193,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO0087750; Desligado - 1; True; 10.21.64.41; 255.255.255.0 64 255.255.254.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO0087750,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00066648; Ligado - 0; True; 10.24.158.96; 255.255.248.0 64 255.255.255.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00066648,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00053315; Desligado - 1; True; 10.24.158.96; 255.255.248.0 64 255.255.255.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00053315,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00087400; Desligado - DNS_ERRO; True; 10.24.211.149; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00087400,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00087276; Desligado - 1; True; 10.24.211.149; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00087276,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00063022; Ligado - 0; True; 10.24.146.146; 255.255.255.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00063022,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00087509; Desligado - 1; True; 10.24.146.146; 255.255.255.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00087509,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00063335; Desligado - 1; True; 10.24.146.146; 255.255.255.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00063335,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00086246; Desligado - 1; True; 10.24.146.146; 255.255.255.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00086246,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00066407; Ligado - 0; True; 10.24.239.83; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00066407,OU=GERAL,OU=TIC-BC,OU=Notebooks,DC=petrobras,DC=biz
+NO00079894; Desligado - 1; True; 10.24.239.83; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00079894,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00087448; Desligado - 1; True; 10.24.239.83; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00087448,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00087404; Ligado - 0; True; 10.24.236.163; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00087404,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00087919; Desligado - DNS_ERRO; True; 10.24.214.155; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00087919,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00070014; Desligado - 1; True; 10.24.214.155; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00070014,OU=GERAL,OU=TIC-BC,OU=Notebooks,DC=petrobras,DC=biz
+NO00087405; Desligado - 1; True; 10.24.214.155; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00087405,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00087305; Ligado - 0; True; 10.24.141.57; 255.255.248.0 64 255.255.255.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00087305,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00087385; Desligado - 1; True; 10.24.141.57; 255.255.248.0 64 255.255.255.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00087385,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00064662; Desligado - 1; True; 10.24.141.57; 255.255.248.0 64 255.255.255.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00064662,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+MI00328298; Desligado - 1; True; 10.24.141.57; 255.255.248.0 64 255.255.255.0 64; Windows 10 Enterprise; petrobras.biz; CN=MI00328298,OU=GERAL,OU=TIC-RIO,OU=Desktops,DC=petrobras,DC=biz
+NO00077603; Desligado - 1; True; 10.24.141.57; 255.255.248.0 64 255.255.255.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00077603,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00087427; Ligado - 0; True; 10.24.237.196; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00087427,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00087438; Desligado - 1; True; 10.24.237.196; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00087438,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00082045; Desligado - 1; True; 10.24.237.196; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00082045,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00087811; Desligado - DNS_ERRO; True; 10.28.38.187; 255.255.255.0 64 255.255.255.255 64; Windows 7 Enterprise; petrobras.biz; CN=NO00087811,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00087562; Desligado - 1; True; 10.28.38.187; 255.255.255.0 64 255.255.255.255 64; Windows 10 Enterprise; petrobras.biz; CN=NO00087562,OU=GERAL,OU=TIC-BA,OU=Notebooks,DC=petrobras,DC=biz
+NO00086171; Desligado - 1; True; 10.28.38.187; 255.255.255.0 64 255.255.255.255 64; Windows 7 Enterprise; petrobras.biz; CN=NO00086171,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00086732; Ligado - 0; True; 10.24.206.191; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00086732,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00086908; Ligado - 0; True; 10.24.238.124; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00086908,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00050062; Desligado - 1; True; 10.24.238.124; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00050062,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00085917; Ligado - 0; True; 10.24.237.17; 255.255.248.0 64; Windows 7 Enterprise; transp.biz; CN=NO00085917,OU=SEDE-RJ,OU=TIC-RIO,OU=Notebooks,DC=transp,DC=biz
+NO00074099; Desligado - 1; True; 10.24.237.17; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00074099,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00086258; Ligado - 0; True; 10.24.194.76; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00086258,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00082073; Desligado - 1; True; 10.24.194.76; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00082073,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00087544; Ligado - 0; True; 10.24.156.20; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00087544,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00086704; Ligado - 0; True; 10.24.166.102; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00086704,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00086876; Ligado - 0; True; 10.24.235.208; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00086876,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00077628; Ligado - 0; True; 10.24.149.97; 255.255.255.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00077628,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00087652; Desligado - 1; True; 10.24.149.97; 255.255.255.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00087652,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00050328; Desligado - 1; True; 10.24.149.97; 255.255.255.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00050328,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00087900; Ligado - 0; True; 10.24.164.95; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00087900,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00085868; Desligado - 1; True; 10.24.164.95; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; transp.biz; CN=NO00085868,OU=SEDE-RJ,OU=TIC-RIO,OU=Notebooks,DC=transp,DC=biz
+NO00087638; Desligado - 1; True; 10.24.164.95; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00087638,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00087658; Ligado - 0; True; 10.24.193.114; 255.255.248.0 64 255.255.255.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00087658,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00087669; Desligado - 1; True; 10.24.193.114; 255.255.248.0 64 255.255.255.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00087669,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00052104; Desligado - 1; True; 10.24.193.114; 255.255.248.0 64 255.255.255.0 64; Windows 10 Enterprise; petrobras.biz; CN=NO00052104,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00078853; Ligado - 0; True; 10.24.239.87; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00078853,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO030008; Desligado - DNS_ERRO; True; 10.15.70.124; 255.255.254.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO030008,OU=CENPES,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00050791; Desligado - 1; True; 10.15.70.124; 255.255.254.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00050791,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00044931; Desligado - 1; True; 10.15.70.124; 255.255.254.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00044931,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00079715; Desligado - 1; True; 10.15.70.124; 255.255.254.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00079715,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00078712; Ligado - 0; True; 10.24.233.233; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00078712,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00082174; Desligado - 1; True; 10.24.233.233; 255.255.248.0 64; Windows 10 Enterprise; petrobras.biz; CN=NO00082174,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00078707; Ligado - 0; True; 10.24.145.12; ; Windows 7 Enterprise; petrobras.biz; CN=NO00078707,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00072333; Desligado - 1; True; 10.24.145.12; ; Windows 7 Enterprise; petrobras.biz; CN=NO00072333,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00053248; Desligado - 1; True; 10.24.145.12; ; Windows 7 Enterprise; petrobras.biz; CN=NO00053248,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00063783; Desligado - 1; True; 10.24.145.12; ; Windows 7 Enterprise; petrobras.biz; CN=NO00063783,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00057677; Desligado - DNS_ERRO; True; 10.24.211.65; ; Windows 7 Enterprise; petrobras.biz; CN=NO00057677,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00079697; Desligado - DNS_ERRO; True; 10.24.212.40; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00079697,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00080902; Desligado - DNS_ERRO; True; 10.24.211.65; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00080902,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00070520; Desligado - DNS_ERRO; True; 10.28.39.2; ; Windows 7 Enterprise; petrobras.biz; CN=NO00070520,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00077679; Desligado - 1; True; 10.28.39.2; ; Windows 7 Enterprise; petrobras.biz; CN=NO00077679,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00063134; Desligado - 1; True; 10.28.39.2; ; Windows 7 Enterprise; petrobras.biz; CN=NO00063134,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00086904; Desligado - 1; True; 10.28.39.2; ; Windows 7 Enterprise; petrobras.biz; CN=NO00086904,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00080898; Desligado - 1; True; 10.28.39.2; ; Windows 7 Enterprise; petrobras.biz; CN=NO00080898,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00079916; Desligado - DNS_ERRO; True; 10.24.213.254; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00079916,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00086234; Desligado - 1; True; 10.24.213.254; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00086234,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00066906; Desligado - 1; True; 10.24.213.254; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00066906,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00056593; Desligado - DNS_ERRO; True; 10.24.214.28; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00056593,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00070513; Desligado - 1; True; 10.24.214.28; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00070513,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00082284; Desligado - 1; True; 10.24.214.28; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00082284,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00058303; Desligado - 1; True; 10.24.214.28; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00058303,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00052617; Desligado - 1; True; 10.24.214.28; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00052617,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00086743; Desligado - 1; True; 10.24.214.28; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00086743,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00086128; Desligado - 1; True; 10.24.214.28; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00086128,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00086126; Desligado - 1; True; 10.24.214.28; 255.255.255.0 64 255.255.248.0 64; Windows 10 Enterprise; petrobras.biz; CN=NO00086126,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00058479; Desligado - 1; True; 10.24.214.28; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00058479,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00047107; Desligado - 1; True; 10.24.214.28; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00047107,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00052418; Desligado - 1; True; 10.24.214.28; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00052418,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00086035; Desligado - 1; True; 10.24.214.28; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00086035,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00073556; Desligado - 1; True; 10.24.214.28; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00073556,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00086106; Desligado - 1; True; 10.24.214.28; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00086106,OU=UO-RIO,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00084455; Desligado - 1; True; 10.24.214.28; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00084455,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00086042; Desligado - 1; True; 10.24.214.28; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00086042,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00086498; Desligado - 1; True; 10.24.214.28; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00086498,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00078905; Desligado - 1; True; 10.24.214.28; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00078905,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00071939; Ligado - 0; True; 10.24.146.120; 255.255.248.0 64 255.255.255.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00071939,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00075367; Ligado - 0; True; 10.24.235.246; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00075367,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00084340; Desligado - 1; True; 10.24.235.246; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00084340,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00081570; Ligado - 0; True; 10.24.156.107; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00081570,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00079719; Desligado - DNS_ERRO; True; 10.24.213.119; 255.255.248.0 64; Windows 10 Enterprise; petrobras.biz; CN=NO00079719,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00071875; Desligado - DNS_ERRO; True; 10.24.215.126; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00071875,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00084453; Desligado - 1; True; 10.24.215.126; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00084453,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00084459; Ligado - 0; True; 10.24.136.120; 255.255.255.0 64; Windows 10 Enterprise; petrobras.biz; CN=NO00084459,OU=Novos Computadores,DC=petrobras,DC=biz
+NO00084197; Desligado - 1; True; 10.24.136.120; 255.255.255.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00084197,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00080934; Ligado - 0; True; 10.24.156.50; ; Windows 7 Enterprise; petrobras.biz; CN=NO00080934,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00079929; Desligado - 1; True; 10.24.156.50; ; Windows 7 Enterprise; petrobras.biz; CN=NO00079929,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00080931; Desligado - DNS_ERRO; True; 10.24.164.46; ; Windows 7 Enterprise; petrobras.biz; CN=NO00080931,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00078705; Desligado - 1; True; 10.24.164.46; ; Windows 7 Enterprise; petrobras.biz; CN=NO00078705,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00079887; Desligado - 1; True; 10.24.164.46; ; Windows 7 Enterprise; petrobras.biz; CN=NO00079887,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00080941; Ligado - 0; True; 10.24.239.205; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00080941,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00084352; Desligado - 1; True; 10.24.239.205; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00084352,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00081567; Desligado - 1; True; 10.24.239.205; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00081567,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00079959; Desligado - 1; True; 10.24.239.205; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00079959,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00078881; Ligado - 0; True; 10.24.232.150; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00078881,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00078706; Desligado - DNS_ERRO; True; 10.24.211.62; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00078706,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00081124; Desligado - 1; True; 10.24.211.62; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00081124,OU=GERAL,OU=TIC-BC,OU=Notebooks,DC=petrobras,DC=biz
+NO00075748; Desligado - 1; True; 10.24.211.62; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00075748,OU=UO-BS,OU=GERAL,OU=TIC-SPS,OU=Notebooks,DC=petrobras,DC=biz
+NO00084451; Desligado - 1; True; 10.24.211.62; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00084451,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00053456; Ligado - 0; True; 10.24.233.99; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00053456,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00079830; Ligado - 0; True; 10.24.145.64; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00079830,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00056467; Desligado - 1; True; 10.24.145.64; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00056467,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00082057; Ligado - 0; True; 10.24.232.236; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00082057,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00079705; Ligado - 0; True; 10.24.193.26; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00079705,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00080867; Ligado - 0; True; 10.24.138.14; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00080867,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00084280; Desligado - 1; True; 10.24.138.14; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00084280,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00078697; Desligado - 1; True; 10.24.138.14; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00078697,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00055750; Desligado - DNS_ERRO; True; 10.28.38.221; 255.255.255.0 64 255.255.255.255 64; Windows 7 Enterprise; petrobras.biz; CN=NO00055750,OU=REDUC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00084312; Desligado - 1; True; 10.28.38.221; 255.255.255.0 64 255.255.255.255 64; Windows 7 Enterprise; petrobras.biz; CN=NO00084312,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00084238; Desligado - 1; True; 10.28.38.221; 255.255.255.0 64 255.255.255.255 64; Windows 7 Enterprise; petrobras.biz; CN=NO00084238,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00064309; Ligado - 0; True; 10.24.236.93; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00064309,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00058631; Desligado - 1; True; 10.24.236.93; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00058631,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00080915; Ligado - 0; True; 10.24.236.215; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00080915,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00078693; Ligado - 0; True; 10.24.233.45; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00078693,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00078700; Desligado - 1; True; 10.24.233.45; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00078700,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00049164; Desligado - 1; True; 10.24.233.45; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00049164,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00084452; Desligado - 1; True; 10.24.233.45; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00084452,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00057949; Desligado - 1; True; 10.24.233.45; 255.255.255.0 64 255.255.248.0 64; Windows 10 Enterprise; petrobras.biz; CN=NO00057949,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00082095; Desligado - 1; True; 10.24.233.45; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00082095,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00058949; Desligado - 1; True; 10.24.233.45; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00058949,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00079740; Desligado - 1; True; 10.24.233.45; 255.255.255.0 64 255.255.248.0 64; Windows 10 Enterprise; petrobras.biz; CN=NO00079740,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00075349; Desligado - 1; True; 10.24.233.45; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00075349,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00062489; Desligado - 1; True; 10.24.233.45; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00062489,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00079884; Desligado - DNS_ERRO; True; 10.28.35.61; ; Windows 7 Enterprise; petrobras.biz; CN=NO00079884,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00072367; Desligado - 1; True; 10.28.35.61; ; Windows 7 Enterprise; petrobras.biz; CN=NO00072367,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00077883; Desligado - 1; True; 10.28.35.61; ; Windows 7 Enterprise; petrobras.biz; CN=NO00077883,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00079217; Desligado - 1; True; 10.28.35.61; ; Windows 7 Enterprise; petrobras.biz; CN=NO00079217,OU=GERAL,OU=TIC-SPS,OU=Notebooks,DC=petrobras,DC=biz
+NO00057190; Desligado - 1; True; 10.28.35.61; ; Windows 7 Enterprise; petrobras.biz; CN=NO00057190,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00079892; Desligado - 1; True; 10.28.35.61; ; Windows 7 Enterprise; petrobras.biz; CN=NO00079892,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00081569; Desligado - DNS_ERRO; True; 10.24.209.67; 255.255.248.0 64; Windows 10 Enterprise; petrobras.biz; CN=NO00081569,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO021777; Desligado - 1; True; 10.24.209.67; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO021777,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00077497; Desligado - 1; True; 10.24.209.67; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00077497,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00079736; Desligado - DNS_ERRO; True; 10.28.38.95; ; Windows 7 Enterprise; petrobras.biz; CN=NO00079736,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00078536; Desligado - 1; True; 10.28.38.95; ; Windows 7 Enterprise; petrobras.biz; CN=NO00078536,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00074158; Desligado - 1; True; 10.28.38.95; ; Windows 10 Enterprise; petrobras.biz; CN=NO00074158,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00079727; Ligado - 0; True; 10.24.235.152; 255.255.248.0 64 255.255.255.0 64; Windows 10 Enterprise; petrobras.biz; CN=NO00079727,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00079672; Desligado - 1; True; 10.24.235.152; 255.255.248.0 64 255.255.255.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00079672,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00042376; Desligado - 1; True; 10.24.235.152; 255.255.248.0 64 255.255.255.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00042376,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00071914; Desligado - 1; True; 10.24.235.152; 255.255.248.0 64 255.255.255.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00071914,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00073140; Desligado - 1; True; 10.24.235.152; 255.255.248.0 64 255.255.255.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00073140,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00079710; Ligado - 0; True; 10.24.239.153; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00079710,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00063058; Desligado - 1; True; 10.24.239.153; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00063058,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00073419; Desligado - 1; True; 10.24.239.153; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00073419,OU=GERAL,OU=TIC-SPS,OU=Notebooks,DC=petrobras,DC=biz
+NO00082223; Desligado - 1; True; 10.24.239.153; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00082223,OU=UO-RIO,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00077652; Ligado - 0; True; 10.24.161.122; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00077652,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00049836; Ligado - 0; True; 10.24.163.94; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00049836,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00069243; Ligado - 0; True; 10.28.40.150; 255.255.255.0 64 128 64 128 255.255.255.255 64; Windows 7 Enterprise; petrobras.biz; CN=NO00069243,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00082076; Desligado - 1; True; 10.28.40.150; 255.255.255.0 64 128 64 128 255.255.255.255 64; Windows 7 Enterprise; petrobras.biz; CN=NO00082076,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00081586; Ligado - 0; True; 10.24.236.19; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00081586,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00082066; Ligado - 0; True; 10.24.237.201; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00082066,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00077924; Ligado - 0; True; 10.24.199.106; 255.255.255.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00077924,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00071925; Desligado - 1; True; 10.24.199.106; 255.255.255.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00071925,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00063796; Desligado - 1; True; 10.24.199.106; 255.255.255.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00063796,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00050663; Desligado - 1; True; 10.24.199.106; 255.255.255.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00050663,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00058714; Desligado - 1; True; 10.24.199.106; 255.255.255.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00058714,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00074712; Desligado - 1; True; 10.24.199.106; 255.255.255.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00074712,OU=CENPES,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00077939; Ligado - 0; True; 10.24.164.122; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00077939,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00080415; Desligado - 1; True; 10.24.164.122; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00080415,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00079832; Desligado - 1; True; 10.24.164.122; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00079832,OU=COMPERJ,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00070691; Desligado - 1; True; 10.24.164.122; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00070691,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00078543; Ligado - 0; True; 10.24.155.88; 255.255.255.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00078543,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00047336; Ligado - 0; True; 10.24.232.10; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00047336,OU=GERAL,OU=TIC-BC,OU=Notebooks,DC=petrobras,DC=biz
+NO00078587; Desligado - 1; True; 10.24.232.10; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00078587,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00077918; Ligado - 0; True; 10.24.235.203; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00077918,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00078575; Ligado - 0; True; 10.24.195.8; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00078575,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00077944; Ligado - 0; True; 10.24.233.161; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00077944,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00041582; Desligado - 1; True; 10.24.233.161; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00041582,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00077878; Desligado - 1; True; 10.24.233.161; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00077878,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00077890; Desligado - 1; True; 10.24.233.161; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00077890,OU=REDUC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00076658; Ligado - 0; True; 10.24.143.25; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00076658,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00077582; Ligado - 0; True; 10.24.237.239; 255.255.248.0 64; Windows 10 Enterprise; petrobras.biz; CN=NO00077582,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00069230; Ligado - 0; True; 10.24.237.220; 255.255.248.0 64 255.255.255.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00069230,OU=GERAL,OU=TIC-BC,OU=Notebooks,DC=petrobras,DC=biz
+NO00073542; Desligado - 1; True; 10.24.237.220; 255.255.248.0 64 255.255.255.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00073542,OU=UO-BS,OU=GERAL,OU=TIC-SPS,OU=Notebooks,DC=petrobras,DC=biz
+NO00077613; Ligado - 0; True; 10.24.161.40; ; Windows 7 Enterprise; petrobras.biz; CN=NO00077613,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00074770; Ligado - 0; True; 10.24.233.123; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00074770,OU=CENPES,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00068174; Desligado - 1; True; 10.24.233.123; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00068174,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00077524; Ligado - 0; True; 10.24.150.16; 255.255.255.0 64; Windows 10 Enterprise; petrobras.biz; CN=NO00077524,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00069963; Desligado - 1; True; 10.24.150.16; 255.255.255.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00069963,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00077519; Desligado - 1; True; 10.24.150.16; 255.255.255.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00077519,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00077661; Desligado - 1; True; 10.24.150.16; 255.255.255.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00077661,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00045128; Desligado - 1; True; 10.24.150.16; 255.255.255.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00045128,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00061464; Desligado - 1; True; 10.24.150.16; 255.255.255.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00061464,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00076249; Desligado - 1; True; 10.24.150.16; 255.255.255.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00076249,OU=GERAL,OU=TIC-BC,OU=Notebooks,DC=petrobras,DC=biz
+NO00076767; Desligado - DNS_ERRO; True; 10.28.36.110; ; Windows 7 Enterprise; petrobras.biz; CN=NO00076767,OU=CENPES,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00063171; Desligado - 1; True; 10.28.36.110; ; Windows 7 Enterprise; petrobras.biz; CN=NO00063171,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00057746; Ligado - 0; True; 10.24.235.75; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00057746,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00076490; Desligado - 1; True; 10.24.235.75; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00076490,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00076606; Desligado - 1; True; 10.24.235.75; 255.255.248.0 64; Windows 10 Enterprise; petrobras.biz; CN=NO00076606,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00076526; Desligado - 1; True; 10.24.235.75; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00076526,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00055747; Ligado - 0; True; 10.24.234.131; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00055747,OU=CENPES,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00057957; Ligado - 0; True; 10.24.197.106; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00057957,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00076516; Desligado - 1; True; 10.24.197.106; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00076516,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00064244; Desligado - 1; True; 10.24.197.106; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00064244,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00057694; Desligado - 1; True; 10.24.197.106; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00057694,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00058443; Desligado - 1; True; 10.24.197.106; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00058443,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00066378; Desligado - 1; True; 10.24.197.106; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00066378,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00071086; Ligado - 0; True; 10.24.234.234; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00071086,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00071102; Desligado - 1; True; 10.24.234.234; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00071102,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00051319; Ligado - 0; True; 10.24.155.58; 255.255.255.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00051319,OU=UO-RIO,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00058579; Desligado - 1; True; 10.24.155.58; 255.255.255.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00058579,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00046705; Desligado - 1; True; 10.24.155.58; 255.255.255.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00046705,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00064216; Desligado - 1; True; 10.24.155.58; 255.255.255.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00064216,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00073119; Ligado - 0; True; 10.24.235.43; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00073119,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00066794; Desligado - DNS_ERRO; True; 10.24.208.61; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00066794,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00052985; Desligado - 1; True; 10.24.208.61; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00052985,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00064293; Desligado - 1; True; 10.24.208.61; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00064293,OU=REDUC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00062723; Desligado - 1; True; 10.24.208.61; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00062723,OU=GERAL,OU=TIC-BC,OU=Notebooks,DC=petrobras,DC=biz
+NO00051161; Desligado - 1; True; 10.24.208.61; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00051161,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00074161; Ligado - 0; True; 10.24.232.211; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00074161,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00071950; Desligado - 1; True; 10.24.232.211; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00071950,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00071467; Desligado - 1; True; 10.24.232.211; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00071467,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00058934; Desligado - 1; True; 10.24.232.211; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00058934,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00057731; Desligado - 1; True; 10.24.232.211; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00057731,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00064109; Desligado - DNS_ERRO; True; 10.24.210.3; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00064109,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00074166; Desligado - 1; True; 10.24.210.3; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00074166,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00061503; Desligado - 1; True; 10.24.210.3; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00061503,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00066850; Desligado - 1; True; 10.24.210.3; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00066850,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00057633; Desligado - 1; True; 10.24.210.3; 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00057633,OU=UO-RIO,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00062683; Ligado - 0; True; 10.24.232.239; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00062683,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO0058392; Desligado - 1; True; 10.24.232.239; 255.255.255.0 64 255.255.248.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO0058392,OU=TIC,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00073570; Desligado - DNS_ERRO; True; 10.15.70.166; 255.255.254.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00073570,OU=CENPES,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz
+NO00070890; Desligado - 1; True; 10.15.70.166; 255.255.254.0 64; Windows 7 Enterprise; petrobras.biz; CN=NO00070890,OU=GERAL,OU=TIC-RIO,OU=Notebooks,DC=petrobras,DC=biz

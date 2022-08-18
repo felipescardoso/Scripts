@@ -1,0 +1,10 @@
+HOSTNAME; STATUS; ATIVO; IP; SO; DOMINIO; OU
+S6006AS2404; Ligado - 0; True; 10.30.163.106; Windows Server 2012 R2 Standard; petrobras.biz; CN=S6006AS2404,OU=Instalacao,OU=TIC,OU=TIC-RIO,OU=Servidores,DC=petrobras,DC=biz
+S6006AS2152; Ligado - 0; True; 10.30.163.222; Windows Server 2012 R2 Standard; petrobras.biz; CN=S6006AS2152,OU=Update Interativo,OU=Aplicacao,OU=TIC,OU=TIC-RIO,OU=Servidores,DC=petrobras,DC=biz
+S6006AS2054; Ligado - 0; True; 10.30.162.254; Windows Server 2012 R2 Standard; petrobras.biz; CN=S6006AS2054,OU=Update Interativo,OU=Aplicacao,OU=TIC,OU=TIC-RIO,OU=Servidores,DC=petrobras,DC=biz
+S6006AS2361; Ligado - 0; True; 10.30.163.169; Windows Server 2012 R2 Standard; petrobras.biz; CN=S6006AS2361,OU=Update Interativo,OU=Aplicacao,OU=TIC,OU=TIC-RIO,OU=Servidores,DC=petrobras,DC=biz
+S6006AS2052; Ligado - 0; True; 10.30.162.239; Windows Server 2012 R2 Standard; petrobras.biz; CN=S6006AS2052,OU=Update Interativo,OU=Aplicacao,OU=TIC,OU=TIC-RIO,OU=Servidores,DC=petrobras,DC=biz
+S6006AS2151; Ligado - 0; True; 10.30.163.221; Windows Server 2012 R2 Standard; petrobras.biz; CN=S6006AS2151,OU=Update Interativo,OU=Aplicacao,OU=TIC,OU=TIC-RIO,OU=Servidores,DC=petrobras,DC=biz
+S6006AS2051; Ligado - 0; True; 10.30.163.66; Windows Server 2012 R2 Standard; petrobras.biz; CN=S6006AS2051,OU=Update Interativo,OU=Aplicacao,OU=TIC,OU=TIC-RIO,OU=Servidores,DC=petrobras,DC=biz
+S602DAS330; Ligado - 0; True; 10.152.22.3; Windows Server 2012 R2 Standard; petrobras.biz; CN=S602DAS330,OU=CCTISP,OU=TIC-SPS,OU=Servidores,DC=petrobras,DC=biz
+S6006AS2053; Ligado - 0; True; 10.30.162.253; Windows Server 2012 R2 Standard; petrobras.biz; CN=S6006AS2053,OU=Update Interativo,OU=Aplicacao,OU=TIC,OU=TIC-RIO,OU=Servidores,DC=petrobras,DC=biz
