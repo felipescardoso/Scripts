@@ -1,0 +1,5 @@
+Powershell_script_source=C:\Program Files\WindowsPowerShell\Scripts
+GroupTag=Tag1
+assignedUser=user@example.com
+addToGroup=IntuneDevices
+created by Felipe Cardoso - Solo Network

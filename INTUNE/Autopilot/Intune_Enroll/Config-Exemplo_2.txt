@@ -1,0 +1,5 @@
+Powershell_script_source=D:\Intune\Intune_Enroll
+GroupTag=Tag2
+assignedUser=test@contoso.com
+addToGroup=
+created by Felipe Cardoso - Solo Network
